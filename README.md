@@ -5,6 +5,9 @@
 
 [link naar code](Tutorial_1/Assets/scripts/Animatie.cs)
 
+
+# Tutorial 2
+
 ### Ik heb een character gemaakt die een kan bewgen en draaien met movement keys en daarbij een animatie afspeelt.
 ![gifje](gif/Tutorial2.gif)
 
