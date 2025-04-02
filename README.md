@@ -13,3 +13,12 @@
 
 [Link naar code animatie](Tutorial_1/Assets/scripts/animatie2.cs)
 [Link naar code movement](Tutorial_1/Assets/scripts/MoveBasic.cs)
+
+
+# Tutorial 3
+
+### Ik heb een bewegende speler gemaakt di kan springen en over een vloer en platformen. Ook heb ik tags en materials gemaakt en deze op de speler en wereld geplaatst.
+![gifje](gif/Tutorial3.gif)
+
+[Link naar code bewegen](Tutorial_1/Assets/scripts/MoveBasic.cs)
+[Link naar code Jump](Tutorial_1/Assets/scripts/jump.cs)
