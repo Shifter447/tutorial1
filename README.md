@@ -24,7 +24,7 @@
 [Link naar code Jump](Tutorial_1/Assets/scripts/jump.cs)
 
 
-#Tutorial 4
+# Tutorial 4
 
 ### Ik heb een object toegevoegd die de speler kan oppakken en heirbij en kleine animatie afspeelt, geluid maakt en punten geeft voor het score systeem dat ik ook heb toegevoegd.
 ![gifje](gif/Tutorial4.gif)
